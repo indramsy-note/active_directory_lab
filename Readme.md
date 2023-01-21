@@ -16,7 +16,7 @@ Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 Get-NetIPAddress
 ```
 
-# Joining the Workstation to the domain
+# 02 Joining the Workstation to the domain
 
 
 
