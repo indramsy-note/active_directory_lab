@@ -21,6 +21,5 @@ Get-NetIPAddress
 
 
 ```
-Add-Computer -Domainname xyz -Credential xyz\Administrator
--Force -Restart
+Add-Computer -Domainname xyz -Credential xyz\Administrator -Force -Restart
 ```
